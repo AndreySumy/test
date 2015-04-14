@@ -10,4 +10,5 @@ require_once "db.php";
   $result=$qvery->fetchAll();
   print_r($result);  
   echo "sdfdsf";
+   echo "ûףסשעג סשüüרו";
 ?>
