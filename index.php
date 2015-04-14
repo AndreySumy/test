@@ -9,6 +9,5 @@ require_once "db.php";
   $qvery->execute();
   $result=$qvery->fetchAll();
   print_r($result);  
-  echo "sdfdsf";
-   echo "ûףסשעג סשüüרו";
+ echo "third commit";
 ?>
